@@ -1,5 +1,6 @@
 # MSc Thesis (2020)
 ### Computing Scenario Forecasting Based on Generative Adversarial Networks (GAN)
+
 #### Grade: 
 
 #### Code: 
