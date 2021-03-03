@@ -3,7 +3,6 @@
 
 #### Grade: 10 (Honorable Mention)
 
-#### Code: 
-[Google Colab](https://drive.google.com/file/d/1EBcMLTUhuo9wVYoyQl_EGI-kvXpSoRse/view?usp=sharing)
+#### Code: [Google Colab](https://drive.google.com/file/d/1EBcMLTUhuo9wVYoyQl_EGI-kvXpSoRse/view?usp=sharing)
 
 ![alt text](GAN_architecture_2.png)
